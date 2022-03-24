@@ -1,0 +1,21 @@
+.cc-navbar{
+    box-shadow: 0 0 10px black;
+}
+
+.cc-card, .cc-cc{
+    background-color: gray;
+}
+
+.img-size{
+    max-width : 70%;
+    height : auto;
+}
+
+.img-size-1{
+    max-width : 70%;
+    height : auto;
+}
+
+.cc-color{
+    color: black;
+}
